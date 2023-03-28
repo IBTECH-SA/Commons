@@ -6,7 +6,7 @@ This is sample core java project to consume aqmp based UM subscription.
 ### Running project:
  1. Download and import project in eclipse.
  2. Modify required configuration in config.properties file
- 3. Run Subscriber.java
+ 3. Run Subscriber.java, connection details will be added in console 
 
 
 ### File details
