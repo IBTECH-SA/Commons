@@ -1,12 +1,13 @@
 # Subscriber Client
  
-This is sample core java project to consume aqmp based UM subscription.
+This is sample core java project to implement Universal messaging subscriber.
 
 
 ### Running project:
- 1. Download and import project in eclipse.
+ 1. Download and import the project in eclipse.
  2. Modify required configuration in config.properties file
- 3. Run Subscriber.java, connection details will be added in console 
+ 3. Run Subscriber.java, connection details will be added to the console.
+ 4. Whenever a message is recieved from the topic, it will be dispalyed in console
 
 
 ### File details
