@@ -1,4 +1,4 @@
-# Subscriber Client
+# UM - Subscriber
  
 This is sample core java project to implement Universal messaging subscriber.
 
