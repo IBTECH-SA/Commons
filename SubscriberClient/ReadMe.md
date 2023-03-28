@@ -3,12 +3,13 @@
 This is sample core java project to consume aqmp based UM subscription.
 
 
-## Running project:
+### Running project:
  1. Download and import project in eclipse.
  2. Modify required configuration in config.properties file
  3. Run Subscriber.java
 
 
+### File details
 
 1. Config.Properties
   - Configuration file to store UM details.
