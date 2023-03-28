@@ -11,14 +11,14 @@ This is sample core java project to consume aqmp based UM subscription.
 
 ### File details
 
-1. Config.Properties
+1. Config.Properties :- 
      Configuration file to store UM details.
   
-2. Subscriber.java
-      Contains main() function.
+2. Subscriber.java :- 
+      Contains main() function. 
 
-3. SubscriberBase.java
+3. SubscriberBase.java :- 
      Contains supporting functions responsible for creating connection and subscribing to  topic.
   
-4. MessageProcessor.java
-  - Process() method inside this class is invoked when a message is received.
+4. MessageProcessor.java :-
+   Process() method inside this class is invoked when a message is received.
