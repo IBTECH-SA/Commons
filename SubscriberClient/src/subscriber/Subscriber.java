@@ -268,8 +268,7 @@ public class Subscriber extends SubscriberBase implements nEventListener {
 			// Increment the last eid counter
 			lastEID++;
 		}
-
-		messageProcessor.process(evt);
+ 
 		// Get the data of the message
 		byte[] buffer = evt.getEventData();
 		if (buffer != null) {
