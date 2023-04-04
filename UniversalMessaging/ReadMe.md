@@ -4,8 +4,8 @@ This is sample C# console application to implement Universal messaging subscribe
 
 
 ### Running project:
- 1. Download and import the project in eclipse.
- 2. Modify required configuration in app.config file
+ 1. Download and open the solution in visual studio.
+ 2. Modify required configurations in app.config file
  3. Run Subscriber.cs, connection details will be added to the console.
  4. Whenever a message is recieved from the topic, it will be dispalyed in console
 
