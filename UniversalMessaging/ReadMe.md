@@ -1,4 +1,4 @@
-# UM - Subscriber
+# UM - .NET client
  
 This is sample C# console application to implement Universal messaging subscriber.
 
