@@ -1,0 +1,9 @@
+D:\Extras\VS 2017\UniversalMessaging\UniversalMessagingClient\bin\Release\UniversalMessagingClient.exe.config
+D:\Extras\VS 2017\UniversalMessaging\UniversalMessagingClient\bin\Release\UniversalMessagingClient.exe
+D:\Extras\VS 2017\UniversalMessaging\UniversalMessagingClient\bin\Release\UniversalMessagingClient.pdb
+D:\Extras\VS 2017\UniversalMessaging\UniversalMessagingClient\bin\Release\Nirvana DotNet.dll
+D:\Extras\VS 2017\UniversalMessaging\UniversalMessagingClient\obj\Release\UniversalMessagingClient.csprojAssemblyReference.cache
+D:\Extras\VS 2017\UniversalMessaging\UniversalMessagingClient\obj\Release\UniversalMessagingClient.csproj.CoreCompileInputs.cache
+D:\Extras\VS 2017\UniversalMessaging\UniversalMessagingClient\obj\Release\UniversalMessagingClient.csproj.CopyComplete
+D:\Extras\VS 2017\UniversalMessaging\UniversalMessagingClient\obj\Release\UniversalMessagingClient.exe
+D:\Extras\VS 2017\UniversalMessaging\UniversalMessagingClient\obj\Release\UniversalMessagingClient.pdb
